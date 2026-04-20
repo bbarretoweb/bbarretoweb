@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bbarretoweb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bbarretoweb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Bruno's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbarretoweb&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
