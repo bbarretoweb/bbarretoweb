@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=200&section=header&text=Software%20Developer&fontSize=50&animation=fadeIn" alt="Header" />
-</p>
-
-# Hi there, I'm Bruno Barreto! 👋
+# Hello there, I'm Bruno Barreto! 👋
 
 ### 👨‍💻 About Me
 - 🚀 **Software Developer** with 8 years of experience in software development.
@@ -19,7 +15,7 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" />
+  <img src="https://img.shields.io/badge/Javascript-35495E?style=for-the-badge&logo=javascript&logoColor=4FC08D" />
   
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -31,8 +27,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bbarretoweb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbarretoweb&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---
